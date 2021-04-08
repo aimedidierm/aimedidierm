@@ -23,10 +23,6 @@ Linux
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimedidierm&count_private=true&show_icons=true&theme=dark" />
 </a>
 <br>
-<br>
-<a href="https://github.com/aimedidierm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?aimedidierm" />
-</a>
 
 
 #### Social media:
