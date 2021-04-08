@@ -15,14 +15,15 @@ Linux
 
 ## My GitHub stats &#x1f4c8;
 <a href="https://github.com/aimedidierm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedidierm&langs_count=5&exclude_repo=repo1,repo2" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedidierm&langs_count=10" />
 </a>
+<br>
 <a href="https://github.com/aimedidierm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimedidierm&count_private=true&show_icons=true&theme=dark" />
 </a>
 <br>
 <a href="https://github.com/aimedidierm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=aimedidierm" />
 </a>
 ---
 
