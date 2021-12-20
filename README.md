@@ -3,13 +3,15 @@ I am full stack web developer.
 ---
 
 #### Programming skills
-PHP,Javascript,C,C++
+PHP,C
 #### Database
 MySQL, SQL
 #### Mobile Apps development
 USSD
 #### Server administration :
 Linux
+#### Devops
+Nginx
 
 ---
 
