@@ -1,18 +1,17 @@
 ### Hi I am Aime Didier M 👋
-I am full stack web developer.
+I am a backend developer.
 ---
 
 #### Programming skills
-PHP,C
+PHP and C
+#### Framework
+Laravel
 #### Database
-MySQL, SQL
-#### Mobile Apps development
-USSD
+MySQL
 #### Server administration :
 Linux
 #### Devops
 Nginx
-
 ---
 
 ## My GitHub stats &#x1f4c8;
