@@ -12,7 +12,6 @@ MySQL
 Linux
 #### Devops
 Nginx
----
 
 ## My GitHub stats &#x1f4c8;
 <a href="https://github.com/aimedidierm">
