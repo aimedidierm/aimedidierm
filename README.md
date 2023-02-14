@@ -17,8 +17,6 @@ Nginx
 <a href="https://github.com/aimedidierm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimedidierm&langs_count=10" />
 </a>
-<br>
-<br>
 <a href="https://github.com/aimedidierm">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=aimedidierm&count_private=true&show_icons=true&theme=dark" />
 </a>
