@@ -1,15 +1,15 @@
-### Hi I am Aime Didier M 👋
+### Hi I am Aime Didier 👋
 I am a backend developer.
 ---
 
 #### Programming skills
-PHP and C
+PHP
 #### Framework
 Laravel
 #### Database
-MySQL
+MySQL, PostgreSQL
 #### Server administration :
-Linux
+Linux ubuntu
 #### Devops
 Nginx
 
