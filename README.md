@@ -1,4 +1,4 @@
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👋♂️ Hi, I'm Aime Didier Mugisha</h3>
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👋 Hi, I'm Aime Didier Mugisha</h3>
 I'm a Full-Stack Software Developer and an ✨AI enthusiast✨ with 
 
 self motivation and natural passion for continuous learning and self-development.
