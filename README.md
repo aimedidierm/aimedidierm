@@ -1,5 +1,5 @@
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👋 Hi, I'm Aime Didier Mugisha</h3>
-A software developer mainly in backend web development using PHP, I like to collaborate on things written in PHP.
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>👋 Hi there,</h3>
+My name is Mugisha Aime Didier, a talented software developer and tech innovator, who had made a name for himself in the world of technology. With a passion for creating innovative solutions, I had developed my skills in backend web development using PHP, embedded electronics projects, and Internet of things. I had built several startup companies and attended numerous innovation challenges, winning accolades for my work. With a thirst for knowledge and a love for my craft, I continue to learn and grow in my field, currently I’m working as a software developer for Quarks Group and an embedded and IOT engineer for Nyereka Tech, while running my own tech startup company, ITARATEC. my dedication and drive are an inspiration to all who aspire to greatness in the world of technology.
 
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#top-technologies"></a>🚀 My Tools And Technologies</h3>
  
